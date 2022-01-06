@@ -6,6 +6,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -22,3 +23,46 @@ section{
     color: white;
     font-weight: 700;
 }
+.orange-color{
+    color: orangered;
+    
+}
+section{
+    display: flex;
+}
+.half-width img{
+    width: 45%;
+    padding-left: 3%;
+}
+.half-width{
+    width: 35%
+    
+}
+.half-width img{
+    width: 50%;
+}
+section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.color{
+    background-color: black;
+    color: white;
+}
+
+   
+    
+
+
+
+
